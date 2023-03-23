@@ -34,7 +34,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -127,7 +126,7 @@ install git and vs code
 
 
 
-- [ ] **Will add link to the connection of other projects**
+- **Will add link to the connection of other projects**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
