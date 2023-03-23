@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Project] <a name="about-project"></a>
+# 📖 Hello Project <a name="about-project"></a>
 
 
 
-**[Hello Project]** is a simple html and css  project to help understand linters config.
+**Hello Project** is a simple html and css  project to help understand linters config.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -127,7 +127,7 @@ install git and vs code
 
 
 
-- [ ] **[Will add link to the connection of other projects]**
+- [ ] **Will add link to the connection of other projects**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
